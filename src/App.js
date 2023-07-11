@@ -3,8 +3,8 @@ import "./index.css";
 import Button from "./components/button";
 export const App = () => {
   return (
-    <button />
     <div class="mx-auto overflow-hidden mt-10 shadow-lg mb-2 bg-purple-900 shadow-lg border rounded-lg lg:w-2/6 md:w-3/6 sm:w-4/6">
+      <button var> text</button>
       <div class="">
         <div class="p-5 text-white text-center text-3xl bg-purple-900">
           <span class="text-orange-500">Calcu</span>lator
